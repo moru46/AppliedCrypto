@@ -1,2 +1,5 @@
-# AppliedCrypto
-Simple implementation of an instant mess App using some secure coding to keep the comunication between two users secure
+# Online messaging service
+Developing of secure messaging service using TCP protocol and "secure programming protocols" as for example AES256, PFS, HMAC and many other things to gurantee the security of comunications.
+
+
+
